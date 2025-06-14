@@ -1,4 +1,3 @@
-[![MasterHead](https://www.shutterstock.com/image-photo/hands-typing-on-laptop-programming-600nw-2480023489.jpg)
 <h1 align="center">Hi 👋, I'm Mohammed Fawzaan</h1>
 <h3 align="center">I’m a tech enthusiast passionate about building full-stack applications and solving real-world problems with code.</h3>
 
