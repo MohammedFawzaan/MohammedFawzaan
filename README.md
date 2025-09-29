@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [RideNow-RidebookingApp](https://github.com/MohammedFawzaan/RideNow-RideBookingApp)
 
-- 🌱 I’m currently learning **Next JS**
-
 - 💬 Ask me about **Frontend, Backend, Frameworks**
 
 - 📫 How to reach me **fawzaanmd31@gmail.com**
