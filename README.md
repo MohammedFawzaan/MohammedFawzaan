@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Fawzaan</h1>
 <h3 align="center">I’m a tech enthusiast passionate about building full-stack applications and solving real-world problems with code.</h3>
 
-- 🔭 I’m currently working on [RideNow-RidebookingApp](https://github.com/MohammedFawzaan/RideNow-RideBookingApp)
+- 🔭 My two Major Projects - [RideNow-RidebookingApp](https://github.com/MohammedFawzaan/RideNow-RideBookingApp) [CookBook-AI Recipe Generator](https://github.com/MohammedFawzaan/CookBook-AI-Application)
 
 - 💬 Ask me about **Frontend, Backend, Frameworks**
 
