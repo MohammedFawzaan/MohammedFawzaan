@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammed Fawzaan</h1>
-<h3 align="center">I’m a tech enthusiast passionate about building full-stack applications and solving real-world problems with code.</h3>
+<h3 align="center">I’m a Tech enthusiast passionate about building full-stack applications and solving real-world problems with code.</h3>
 
-- 🔭 My two Major Projects - 1.[RideNow-RidebookingApp](https://github.com/MohammedFawzaan/RideNow-RideBookingApp) 2.[CookBook-AI Recipe Generator](https://github.com/MohammedFawzaan/CookBook-AI-Application)
+- 🔭 My 3 Major Projects - 1.[RideNow-RidebookingApp](https://github.com/MohammedFawzaan/RideNow-RideBookingApp) 2.[CookBook-AI Recipe Generator](https://github.com/MohammedFawzaan/CookBook-AI-Application) 3.[Virtual Chemistry Laboratory](https://github.com/MohammedFawzaan/Virtual-Chemistry-Laboratory)
 
 - 💬 Ask me about **Frontend, Backend, Frameworks**
 
 - 📫 How to reach me **fawzaanmd31@gmail.com**
+
+- 🎯 Currently Building Projects with React Native and Next js
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
