@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Fawzaan</h1>
 <h3 align="center">I’m a Tech enthusiast passionate about building full-stack applications and solving real-world problems with code.</h3>
 
-- 🔭 My 3 Major Projects - 1.[RideNow-RidebookingApp](https://github.com/MohammedFawzaan/RideNow-RideBookingApp) 2.[CookBook-AI Recipe Generator](https://github.com/MohammedFawzaan/CookBook-AI-Application) 3.[Virtual Chemistry Laboratory](https://github.com/MohammedFawzaan/Virtual-Chemistry-Laboratory)
+- 🔭 My 3 Major Projects - 1.[RideNow-RidebookingApp](https://github.com/MohammedFawzaan/RideNow-RideBookingApp) 2.[CookBook-AI Recipe Generator](https://github.com/MohammedFawzaan/CookBook-AI-Application) 3.[AI Career Pilot](https://github.com/MohammedFawzaan/AI-Career-Pilot)
 
 - 💬 Ask me about **Frontend, Backend, Frameworks**
 
