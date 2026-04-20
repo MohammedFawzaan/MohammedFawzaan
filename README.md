@@ -70,7 +70,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-  <h3 align="center">RAG pipeline with chat UI</h3>
+  <h3 align="center">🤖 RAG pipeline with chat UI</h3>
   <p align="center">
     A Scalable RAG system featuring asynchronous document ingestion, semantic vector retrieval with Qdrant and intelligent generation powered by Gemini API.
     <br/><br/>
