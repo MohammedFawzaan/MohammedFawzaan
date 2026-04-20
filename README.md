@@ -97,41 +97,15 @@
 
 ## 🛠️ Languages & Tools
 
-### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,c" />
-</p>
-
-### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" />
-</p>
-
-### Mobile
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" title="React Native" />
-  <img src="https://skillicons.dev/icons?i=expo" title="Expo" />
-</p>
-
-### Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-</p>
-
-### Databases & ORM
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,prisma" />
-  <img src="https://cdn.simpleicons.org/typeorm/FE0803" height="48" title="TypeORM" />
-</p>
-
-### DevOps & Tools
-<p align="left">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" /><br/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat&logo=typeorm&logoColor=white" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,prisma" /><br/>
   <img src="https://skillicons.dev/icons?i=docker,git,postman,firebase" />
-</p>
-
-### UI Libraries
-<p align="left">
-  <img src="https://cdn.simpleicons.org/shadcnui/1E293B" height="48" title="ShadCN UI" />
 </p>
 
 ---
